@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_RT_03</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fce0e461-247a-45b2-aa26-2f6bbf4337fe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ed6189a-8750-4a7a-967a-03a5fff6a9c0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'閲覧履歴'</defaultValue>
+      <description></description>
+      <id>4ed6189a-8750-4a7a-967a-03a5fff6a9c0</id>
+      <masked>false</masked>
+      <name>browsingText</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Occupation</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>952733d0-2a1d-4f72-b515-d95927967168</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password></password>
+   <query>SELECT name FROM occupation</query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <user></user>
+   <usingGlobalDBSetting>true</usingGlobalDBSetting>
+</DataFileEntity>

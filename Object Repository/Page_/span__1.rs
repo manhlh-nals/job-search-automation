@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1</name>
+   <tag></tag>
+   <elementGuidId>35042f25-dc06-4f3a-8811-51a4e2f1c500</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/h1/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.Search_search_word__82rCx</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b37ecc07-831e-4042-b82b-25b6468c88b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Search_search_word__82rCx</value>
+      <webElementGuid>827f59db-74aa-4a75-ab3b-996b3955100e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>北海道 札幌市 </value>
+      <webElementGuid>6298ea17-6957-4b55-a7f2-c52746aae79e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Search_twocolumn__YUMi5&quot;]/div[@class=&quot;Search_column_main__5VwLF undefined&quot;]/h1[@class=&quot;Search_search_text__w2ad3&quot;]/span[@class=&quot;Search_search_word__82rCx&quot;]</value>
+      <webElementGuid>bed5f499-c42b-43f8-82fe-5627a2708a36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/h1/span</value>
+      <webElementGuid>d97107ee-96d5-416a-bd51-89ad96a52ec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='関連順'])[1]/preceding::span[3]</value>
+      <webElementGuid>0ffdcb65-4156-41eb-9e3b-ca45f1f6d464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='＃ 大量募集'])[1]/preceding::span[3]</value>
+      <webElementGuid>8ac8aa33-eecf-42a0-bebc-b9339cca29e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='北海道 札幌市']/parent::*</value>
+      <webElementGuid>4847edba-88f1-4412-a20b-34e1013feab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>15bc83fa-89dc-4c83-8417-0dc76fcea511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '北海道 札幌市 ' or . = '北海道 札幌市 ')]</value>
+      <webElementGuid>c37b460c-6ccd-44bb-a1bd-74b392bc5c94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

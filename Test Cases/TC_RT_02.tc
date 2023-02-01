@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_RT_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b26ede36-dc24-4c6f-bf77-2f667290a503</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>38f0e9b6-8ba6-4f7e-8d83-b278b2318b30</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'保存した条件'</defaultValue>
+      <description></description>
+      <id>38f0e9b6-8ba6-4f7e-8d83-b278b2318b30</id>
+      <masked>false</masked>
+      <name>savedCondition</name>
+   </variable>
+</TestCaseEntity>

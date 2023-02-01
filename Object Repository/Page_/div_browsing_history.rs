@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_browsing_history</name>
+   <tag></tag>
+   <elementGuidId>a95cdaa8-74ef-4b51-a348-953aa88776d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/ul/li[3]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Hover_element__jRytx.MypageTab_is_active__2hdcu.Hover_mypage-tab__nX_S8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ad38b3be-2e11-46c4-b7f1-9554ba798f33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Hover_element__jRytx MypageTab_is_active__2hdcu Hover_mypage-tab__nX_S8</value>
+      <webElementGuid>749caa9b-aec4-45fa-aa71-9e8e5ca61d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>閲覧履歴</value>
+      <webElementGuid>ee51693e-a977-45cc-aef8-52c2b2423f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Mypage_content__KpXek&quot;]/div[@class=&quot;Mypage_main__m8bSq&quot;]/ul[@class=&quot;MypageTab_element__rToZg&quot;]/li[@class=&quot;MypageTab_tab_item_wrapper__Rd8mV&quot;]/a[1]/div[@class=&quot;Hover_element__jRytx MypageTab_is_active__2hdcu Hover_mypage-tab__nX_S8&quot;]</value>
+      <webElementGuid>34a61348-0195-45ad-b366-8a3467fc628f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/ul/li[3]/a/div</value>
+      <webElementGuid>36f54bd8-4024-4de4-89c2-74d8fecc29c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='閲覧履歴'])[3]/following::div[6]</value>
+      <webElementGuid>3c8aa3d5-b7ea-45ae-8d52-6d1c298adf82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ホーム'])[1]/following::div[6]</value>
+      <webElementGuid>9f65a0c6-d843-4fb9-9568-173eda89f988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/div</value>
+      <webElementGuid>dfbfbac4-76d8-47a4-9529-7ac9b9c8910e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '閲覧履歴' or . = '閲覧履歴')]</value>
+      <webElementGuid>0c75f833-0645-4666-bfe9-a9d5fdb336c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

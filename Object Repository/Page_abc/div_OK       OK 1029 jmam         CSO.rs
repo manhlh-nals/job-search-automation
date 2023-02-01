@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OK       OK 1029 jmam         CSO</name>
+   <tag></tag>
+   <elementGuidId>b4971e97-1400-4351-ab63-9763536adfa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/div[13]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Search_correlation_container__MP33Y</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dce238ce-4f62-4979-8130-d06f36cd8188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Search_correlation_container__MP33Y</value>
+      <webElementGuid>6db888b0-f88d-44a6-822d-90df456a3ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>営業の求人をエリアで絞り込む京都府 営業北海道 営業千葉県 営業埼玉県 営業宮城県 営業山形県 営業岩手県 営業愛知県 営業新潟県 営業東京都 営業福島県 営業秋田県 営業群馬県 営業青森県 営業香川県 営業営業の求人を勤務形態で絞り込む営業 契約社員営業 業務委託営業 アルバイト・パート営業 スポット求人営業 職業紹介営業 紹介予定派遣営業 正社員営業 派遣社員営業 その他雇用形態営業の求人を特徴で絞り込む営業 日勤のみOK営業 フリーター歓迎営業 昇給あり営業 その他のエリアに本社のある企業営業 大学生歓迎営業 神経内科営業 ストックオプション営業 ピアスOK営業 店舗数10～29営業 jmam営業の求人を業種で絞り込む営業 メーカー関連営業 サービス営業 ゴム・樹脂・合繊営業 コンサルティングファーム・シンクタンク・マーケティング営業 公的機関・その他営業 金融・保険営業 通信販売・ネット販売営業 交通・物流営業 CSO（医薬品開発業務受託機関）営業 医療・福祉他の職種で探す電気・電子・機械・半導体看護師・准看護師・保健師・助産師歯科技工士・歯科衛生士学術・管理薬剤師・薬剤師・登録販売員介護職・ケアマネージャー・ホームヘルパー管理栄養士・栄養士・フードコーディネーター介護福祉士施設長・事務長機能訓練指導員看護助手・病院内サポート</value>
+      <webElementGuid>c0be59a8-92e0-4fa1-854e-9067a6f7336b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Search_twocolumn__YUMi5&quot;]/div[@class=&quot;Search_column_main__5VwLF undefined&quot;]/div[@class=&quot;Search_correlation_container__MP33Y&quot;]</value>
+      <webElementGuid>04e4727f-2ea8-47f6-8717-650a1b3caa7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/div[13]</value>
+      <webElementGuid>ec0c5163-1237-429e-92a7-f9af83d5fcbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/following::div[2]</value>
+      <webElementGuid>4a4287d7-f50d-4ecc-ac7a-0d98e251603e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[13]</value>
+      <webElementGuid>4aac0a7b-aecd-48c8-aeba-35c34f113efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '営業の求人をエリアで絞り込む京都府 営業北海道 営業千葉県 営業埼玉県 営業宮城県 営業山形県 営業岩手県 営業愛知県 営業新潟県 営業東京都 営業福島県 営業秋田県 営業群馬県 営業青森県 営業香川県 営業営業の求人を勤務形態で絞り込む営業 契約社員営業 業務委託営業 アルバイト・パート営業 スポット求人営業 職業紹介営業 紹介予定派遣営業 正社員営業 派遣社員営業 その他雇用形態営業の求人を特徴で絞り込む営業 日勤のみOK営業 フリーター歓迎営業 昇給あり営業 その他のエリアに本社のある企業営業 大学生歓迎営業 神経内科営業 ストックオプション営業 ピアスOK営業 店舗数10～29営業 jmam営業の求人を業種で絞り込む営業 メーカー関連営業 サービス営業 ゴム・樹脂・合繊営業 コンサルティングファーム・シンクタンク・マーケティング営業 公的機関・その他営業 金融・保険営業 通信販売・ネット販売営業 交通・物流営業 CSO（医薬品開発業務受託機関）営業 医療・福祉他の職種で探す電気・電子・機械・半導体看護師・准看護師・保健師・助産師歯科技工士・歯科衛生士学術・管理薬剤師・薬剤師・登録販売員介護職・ケアマネージャー・ホームヘルパー管理栄養士・栄養士・フードコーディネーター介護福祉士施設長・事務長機能訓練指導員看護助手・病院内サポート' or . = '営業の求人をエリアで絞り込む京都府 営業北海道 営業千葉県 営業埼玉県 営業宮城県 営業山形県 営業岩手県 営業愛知県 営業新潟県 営業東京都 営業福島県 営業秋田県 営業群馬県 営業青森県 営業香川県 営業営業の求人を勤務形態で絞り込む営業 契約社員営業 業務委託営業 アルバイト・パート営業 スポット求人営業 職業紹介営業 紹介予定派遣営業 正社員営業 派遣社員営業 その他雇用形態営業の求人を特徴で絞り込む営業 日勤のみOK営業 フリーター歓迎営業 昇給あり営業 その他のエリアに本社のある企業営業 大学生歓迎営業 神経内科営業 ストックオプション営業 ピアスOK営業 店舗数10～29営業 jmam営業の求人を業種で絞り込む営業 メーカー関連営業 サービス営業 ゴム・樹脂・合繊営業 コンサルティングファーム・シンクタンク・マーケティング営業 公的機関・その他営業 金融・保険営業 通信販売・ネット販売営業 交通・物流営業 CSO（医薬品開発業務受託機関）営業 医療・福祉他の職種で探す電気・電子・機械・半導体看護師・准看護師・保健師・助産師歯科技工士・歯科衛生士学術・管理薬剤師・薬剤師・登録販売員介護職・ケアマネージャー・ホームヘルパー管理栄養士・栄養士・フードコーディネーター介護福祉士施設長・事務長機能訓練指導員看護助手・病院内サポート')]</value>
+      <webElementGuid>a2b84d0b-944d-4262-8062-7f7c9bbe0752</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

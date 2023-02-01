@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_favorite</name>
+   <tag></tag>
+   <elementGuidId>c27ce94f-0820-4b29-a5be-8dcd0862d5ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/ul/li[4]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Hover_element__jRytx.MypageTab_is_active__2hdcu.Hover_mypage-tab__nX_S8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9d38b366-4518-40a0-9226-93ab7bdebf64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Hover_element__jRytx MypageTab_is_active__2hdcu Hover_mypage-tab__nX_S8</value>
+      <webElementGuid>654d1222-00c3-4206-b02b-c5bf328b8af1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>favorite</value>
+      <webElementGuid>60b15952-6002-40b4-a31e-9017bad31b2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Mypage_content__KpXek&quot;]/div[@class=&quot;Mypage_main__m8bSq&quot;]/ul[@class=&quot;MypageTab_element__rToZg&quot;]/li[@class=&quot;MypageTab_tab_item_wrapper__Rd8mV&quot;]/a[1]/div[@class=&quot;Hover_element__jRytx MypageTab_is_active__2hdcu Hover_mypage-tab__nX_S8&quot;]</value>
+      <webElementGuid>1e2285ee-5977-4c55-8b2f-9f0dffc2f9b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/ul/li[4]/a/div</value>
+      <webElementGuid>7fdc199d-002c-4237-abb2-2ec9c6fed8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browsing history'])[3]/following::div[1]</value>
+      <webElementGuid>81812a9f-78e7-40e2-b25d-55497aa1c50d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved condition'])[3]/following::div[3]</value>
+      <webElementGuid>6475df07-67fc-4d3b-8a1d-5b99343c1ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div</value>
+      <webElementGuid>a7935411-7d60-423c-afd8-5a75631a8056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'favorite' or . = 'favorite')]</value>
+      <webElementGuid>6a1c7635-a1f1-4caf-86e2-972ef340d92e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

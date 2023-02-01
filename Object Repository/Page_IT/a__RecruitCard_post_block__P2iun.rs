@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__RecruitCard_post_block__P2iun</name>
+   <tag></tag>
+   <elementGuidId>7373dccf-8c59-4277-a42a-2eafb5799185</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/div[2]/article/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.RecruitCard_post_block__P2iun</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a1609a96-5154-473e-a7ee-ca60781522f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>RecruitCard_post_block__P2iun</value>
+      <webElementGuid>e256ba53-18dc-4c7e-a2a7-04914f192d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/job/xxxUwh44432</value>
+      <webElementGuid>c2c92c16-0bd5-4194-9c1a-e0ca9f49be96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Search_twocolumn__YUMi5&quot;]/div[@class=&quot;Search_column_main__5VwLF undefined&quot;]/div[2]/article[@class=&quot;RecruitCard_post_article__tldyX&quot;]/a[@class=&quot;RecruitCard_post_block__P2iun&quot;]</value>
+      <webElementGuid>f392c166-e412-4696-9b07-f98b61567707</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/div[2]/article/a</value>
+      <webElementGuid>043e748a-2475-4fce-bcb9-106bb5e5bc07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='関連順'])[1]/following::a[1]</value>
+      <webElementGuid>6c7b649a-68b9-4ef6-b7a5-534f765d6999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT・通信'])[2]/following::a[1]</value>
+      <webElementGuid>79908dd8-e24e-4fc9-ad9f-998b0e89f0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='＃ 昇給あり'])[1]/preceding::a[1]</value>
+      <webElementGuid>f8b4fdf3-d194-431e-a773-7ad5c4f0fcff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='＃ LXP9p'])[1]/preceding::a[1]</value>
+      <webElementGuid>7920f226-d566-4dd6-bf6a-e0d2839a99d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/job/xxxUwh44432')]</value>
+      <webElementGuid>4f1cd3ea-9546-4713-84cd-51e1f55f8eb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/a</value>
+      <webElementGuid>87a75354-dbff-4e91-ac74-b95db38840b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/job/xxxUwh44432']</value>
+      <webElementGuid>0c17e84c-6c40-4397-91d7-9739034f1c6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

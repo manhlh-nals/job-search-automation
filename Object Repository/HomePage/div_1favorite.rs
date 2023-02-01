@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1favorite</name>
+   <tag></tag>
+   <elementGuidId>2fe412a8-e5d3-4831-9756-0bf8646eaba0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='Header_header__R_kkv']/div/div[2]/a[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0d4ee936-2912-4cb9-b187-6434fa621229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Hover_element__jRytx  Hover_mypage-header-icon__pDA3q</value>
+      <webElementGuid>a78a9dd7-9e44-4077-86c1-7834e00da16f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1favorite</value>
+      <webElementGuid>b2c22f2a-6e33-474c-887e-b5f51aeaee9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Header_header__R_kkv&quot;)/div[@class=&quot;Header_header__R_kkv Header_is_root__WBV1P&quot;]/div[@class=&quot;Header_header_links__98IMV&quot;]/a[@class=&quot;MypageMenu_icon_wrapper__DFCgn&quot;]/div[@class=&quot;Hover_element__jRytx  Hover_mypage-header-icon__pDA3q&quot;]</value>
+      <webElementGuid>5820b388-8a23-40d2-b918-a3e6aca9d993</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='Header_header__R_kkv']/div/div[2]/a[3]/div</value>
+      <webElementGuid>2a817d2a-4329-4c0a-b38b-c0a3f14ea267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browsing history'])[1]/following::div[1]</value>
+      <webElementGuid>23e07533-d803-4443-aa37-302535014a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved condition'])[1]/following::div[3]</value>
+      <webElementGuid>4fc52844-8df7-4952-8c3f-22d0cfb3e6cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved condition'])[2]/preceding::div[4]</value>
+      <webElementGuid>f302406d-9e72-419e-8906-380c515fa034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div</value>
+      <webElementGuid>74edc262-f93b-4d0e-b3ab-fab10c4f6a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1favorite' or . = '1favorite')]</value>
+      <webElementGuid>85ebf6f8-a05c-4f45-9c34-cbc95d237aef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

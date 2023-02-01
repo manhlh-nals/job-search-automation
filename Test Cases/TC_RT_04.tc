@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_RT_04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cdd0d43-0ceb-46a2-b3ed-5fd25fae67fe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1abc31e7-65d3-45b9-b942-ed46f7c67284</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'お気に入り'</defaultValue>
+      <description></description>
+      <id>1abc31e7-65d3-45b9-b942-ed46f7c67284</id>
+      <masked>false</masked>
+      <name>favorite</name>
+   </variable>
+</TestCaseEntity>

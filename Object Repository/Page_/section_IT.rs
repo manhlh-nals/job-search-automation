@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_IT</name>
+   <tag></tag>
+   <elementGuidId>db8cdf78-51f9-4259-9970-6895af63d139</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.Section_element__dj6MS.SearchRecruit_occupation__wejCA</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>4bc071f7-fd19-44f7-922a-e8a63fd11307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Section_element__dj6MS SearchRecruit_occupation__wejCA</value>
+      <webElementGuid>69e1e735-4a60-4f3e-90b5-e3b2b5b0ad8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>職種から探す# 営業# エンジニア・ITエンジニア# 販売・飲食・接客・サービス# 医療・福祉# 企画・経営・マーケティング# 建築・土木# 医薬・食品・化学・素材# 管理・事務# 技能工・設備・配送・農林水産# 電気・電子・機械・半導体</value>
+      <webElementGuid>161f0ba7-f6f8-47ab-83db-15e97ff5d0ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/section[@class=&quot;Section_element__dj6MS SearchRecruit_occupation__wejCA&quot;]</value>
+      <webElementGuid>c17a4e29-c5c3-4141-8e72-75de681be4d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[5]</value>
+      <webElementGuid>a123c400-8879-412c-bde5-f0828e8b2a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='働き方・雇用形態から探す'])[1]/following::section[1]</value>
+      <webElementGuid>876fadc6-bea1-43b2-be54-496a411f1846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='沖縄県'])[2]/following::section[2]</value>
+      <webElementGuid>89d1cdf1-e2d7-4f4e-a774-3fbbf93b5b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[5]</value>
+      <webElementGuid>2670ceef-1d12-42c3-a2bc-307b6c67afd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = '職種から探す# 営業# エンジニア・ITエンジニア# 販売・飲食・接客・サービス# 医療・福祉# 企画・経営・マーケティング# 建築・土木# 医薬・食品・化学・素材# 管理・事務# 技能工・設備・配送・農林水産# 電気・電子・機械・半導体' or . = '職種から探す# 営業# エンジニア・ITエンジニア# 販売・飲食・接客・サービス# 医療・福祉# 企画・経営・マーケティング# 建築・土木# 医薬・食品・化学・素材# 管理・事務# 技能工・設備・配送・農林水産# 電気・電子・機械・半導体')]</value>
+      <webElementGuid>0e025bcb-8de9-4b50-a08c-615ad77743c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1_2</name>
+   <tag></tag>
+   <elementGuidId>6e6bc647-61ab-4c7d-b8aa-7d00e8ca2170</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/h1/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.Search_search_word__82rCx</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b0c23772-b601-4ab7-a3ce-8580c5c75214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Search_search_word__82rCx</value>
+      <webElementGuid>d966ea60-746d-4886-b845-b5e9587fa3ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>黒部市 新黒部駅 </value>
+      <webElementGuid>9035051c-8a3f-4dcd-b60f-8163500ab44b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Search_twocolumn__YUMi5&quot;]/div[@class=&quot;Search_column_main__5VwLF undefined&quot;]/h1[@class=&quot;Search_search_text__w2ad3&quot;]/span[@class=&quot;Search_search_word__82rCx&quot;]</value>
+      <webElementGuid>e864692a-8d31-4fd6-ab7d-f822b88e1755</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/h1/span</value>
+      <webElementGuid>4067a195-13e8-48a8-9179-1f38df8bad9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='関連順'])[1]/preceding::span[3]</value>
+      <webElementGuid>e8d9e150-7bc2-4b47-91f5-ec096f09bb76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='黒部市 新黒部駅']/parent::*</value>
+      <webElementGuid>789867f4-e811-4d9b-88b9-7f0a7d1f67de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>460e1e1b-435e-4ef9-a32e-c3fddd9ef846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '黒部市 新黒部駅 ' or . = '黒部市 新黒部駅 ')]</value>
+      <webElementGuid>dc80b29b-fea4-46c5-929a-5c04ef3f68ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

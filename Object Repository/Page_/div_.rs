@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>f12165c6-f53b-4fe8-a1b3-7290b3f812aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/ul/li[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Hover_element__jRytx.MypageTab_is_active__2hdcu.Hover_mypage-tab__nX_S8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca6f1de1-2246-424b-adfe-e1676ad13800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Hover_element__jRytx MypageTab_is_active__2hdcu Hover_mypage-tab__nX_S8</value>
+      <webElementGuid>6bbf9649-1b8b-4ab4-859f-d1cc1ac5518a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>保存した条件</value>
+      <webElementGuid>70fa2b9d-3b3c-4aec-87ae-088ea6f25f25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Mypage_content__KpXek&quot;]/div[@class=&quot;Mypage_main__m8bSq&quot;]/ul[@class=&quot;MypageTab_element__rToZg&quot;]/li[@class=&quot;MypageTab_tab_item_wrapper__Rd8mV&quot;]/a[1]/div[@class=&quot;Hover_element__jRytx MypageTab_is_active__2hdcu Hover_mypage-tab__nX_S8&quot;]</value>
+      <webElementGuid>07a0159d-4121-4aaf-9a47-69ee93ac0d2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/ul/li[2]/a/div</value>
+      <webElementGuid>1f6f2953-4258-4cbc-b50e-d194bf6669ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='保存した条件'])[3]/following::div[4]</value>
+      <webElementGuid>df63e751-c485-4323-9e04-04ac1b863755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ホーム'])[1]/following::div[4]</value>
+      <webElementGuid>8d9420e7-dcf1-4b3a-9a79-8b136c2de571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div</value>
+      <webElementGuid>4ebeee8e-ed7f-451b-8f35-65ef03f178fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '保存した条件' or . = '保存した条件')]</value>
+      <webElementGuid>4bcce9c6-5f5f-481c-bbd3-4c28007c94ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

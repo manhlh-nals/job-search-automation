@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_RT_31</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca480f4f-8acb-42a2-a056-63b0f3adf505</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>855bcd98-77e5-47ca-8aa8-ca3312d39c61</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>855bcd98-77e5-47ca-8aa8-ca3312d39c61</id>
+      <masked>false</masked>
+      <name>first</name>
+   </variable>
+</TestCaseEntity>

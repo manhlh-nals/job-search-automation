@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OK2431OK</name>
+   <tag></tag>
+   <elementGuidId>22d4a984-8c66-450a-a2e3-47c3e8782db6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Search_column_side__TdR2j.Search_archive_side__Bawh1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d1aff3bd-d09b-400d-a80a-1067ac790b22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Search_column_side__TdR2j Search_archive_side__Bawh1</value>
+      <webElementGuid>f9d8b9a8-9ab4-481c-a178-4c8271e6a817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>フリーワードを含まない地域働き方・雇用形態正社員アルバイト・パート契約社員派遣社員業務委託未経験者歓迎新卒OK副業・Ｗワークリモートワーク／在宅勤務／内職フレックスタイム制職種選択業種選択給与すべて年収時給日給下限なし〜上限なし求人掲載日24時間以内3日以内1週間以内こだわり条件フリーター歓迎学歴不問社会保険完備短期・期間限定社員登用あり交通費支給制服貸与バイク・車通勤OK第二新卒歓迎服装自由条件を保存する解除絞り込む条件变更</value>
+      <webElementGuid>f332c346-ee79-4f13-99c9-943cbdb68ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Search_twocolumn__YUMi5&quot;]/div[@class=&quot;Search_column_side__TdR2j Search_archive_side__Bawh1&quot;]</value>
+      <webElementGuid>88622ffe-c53f-4523-83a8-985a40efd1db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div[2]</value>
+      <webElementGuid>9e70d36e-aea8-4b04-93ff-1dd7606d852f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='関連順'])[1]/following::div[5]</value>
+      <webElementGuid>33c7dd4b-dc48-4875-851e-752de403649a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]</value>
+      <webElementGuid>57e368ee-0dd5-4b69-b289-a1800e93a9b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'フリーワードを含まない地域働き方・雇用形態正社員アルバイト・パート契約社員派遣社員業務委託未経験者歓迎新卒OK副業・Ｗワークリモートワーク／在宅勤務／内職フレックスタイム制職種選択業種選択給与すべて年収時給日給下限なし〜上限なし求人掲載日24時間以内3日以内1週間以内こだわり条件フリーター歓迎学歴不問社会保険完備短期・期間限定社員登用あり交通費支給制服貸与バイク・車通勤OK第二新卒歓迎服装自由条件を保存する解除絞り込む条件变更' or . = 'フリーワードを含まない地域働き方・雇用形態正社員アルバイト・パート契約社員派遣社員業務委託未経験者歓迎新卒OK副業・Ｗワークリモートワーク／在宅勤務／内職フレックスタイム制職種選択業種選択給与すべて年収時給日給下限なし〜上限なし求人掲載日24時間以内3日以内1週間以内こだわり条件フリーター歓迎学歴不問社会保険完備短期・期間限定社員登用あり交通費支給制服貸与バイク・車通勤OK第二新卒歓迎服装自由条件を保存する解除絞り込む条件变更')]</value>
+      <webElementGuid>d468c723-ad3c-4107-a3be-0e7daecb842a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

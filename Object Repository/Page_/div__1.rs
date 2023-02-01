@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__1</name>
+   <tag></tag>
+   <elementGuidId>c68ad4e2-637c-4ee7-8834-d499d7c0c466</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='Header_header__R_kkv']/div/div[2]/a[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eddb2324-9d33-4837-b695-865c828ac78b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Hover_element__jRytx  Hover_mypage-header-icon__pDA3q</value>
+      <webElementGuid>4a87111b-41fb-4cc7-9821-f8bdae777718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>お気に入り</value>
+      <webElementGuid>186e2871-96d4-4a94-9f48-a0fc01b83c22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Header_header__R_kkv&quot;)/div[@class=&quot;Header_header__R_kkv Header_is_root__WBV1P&quot;]/div[@class=&quot;Header_header_links__98IMV&quot;]/a[@class=&quot;MypageMenu_icon_wrapper__DFCgn&quot;]/div[@class=&quot;Hover_element__jRytx  Hover_mypage-header-icon__pDA3q&quot;]</value>
+      <webElementGuid>8204d931-ea6b-414e-93d3-bb89be1c1093</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='Header_header__R_kkv']/div/div[2]/a[3]/div</value>
+      <webElementGuid>708f8e27-7600-429b-98af-5c3c1f858295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='フリーワード'])[1]/preceding::div[12]</value>
+      <webElementGuid>0b8157a9-336c-46ed-9dfe-a733c7fe9606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='を含まない'])[1]/preceding::div[14]</value>
+      <webElementGuid>e0b6e1d9-c32e-45d6-968e-70db0a6a555f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div</value>
+      <webElementGuid>3413fd2f-0f52-409d-b160-53e8764a075f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'お気に入り' or . = 'お気に入り')]</value>
+      <webElementGuid>af36232a-c4f9-439b-b541-f41efe021820</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

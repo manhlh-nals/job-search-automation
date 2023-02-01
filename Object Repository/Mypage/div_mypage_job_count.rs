@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_mypage_job_count</name>
+   <tag></tag>
+   <elementGuidId>8fbbab3b-ad34-4933-be3b-524d7b8d6037</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Mypage_mypage_count_label__6Vw8v</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5060541b-acac-40c8-ac03-0ed92c8be89c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Mypage_mypage_count_label__6Vw8v</value>
+      <webElementGuid>16dddbda-bf09-445c-ac98-f44e39c467f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>お気に入りの求人数　</value>
+      <webElementGuid>29051c79-dbc8-4666-a85e-bc3945ebab1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Mypage_content__KpXek&quot;]/div[@class=&quot;Mypage_main__m8bSq&quot;]/div[@class=&quot;Mypage_mypage_count__VD1zy&quot;]/div[@class=&quot;Mypage_mypage_count_label__6Vw8v&quot;]</value>
+      <webElementGuid>23f2de18-64bf-44a3-906b-e5aa5cc355ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/div/div</value>
+      <webElementGuid>fd871cdc-e830-4ed3-9756-93d18b779741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='お気に入り'])[3]/following::div[11]</value>
+      <webElementGuid>40a20281-1b49-4b92-a525-cc4a47fbd46a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ホーム'])[1]/following::div[11]</value>
+      <webElementGuid>a2bb49bf-ffc9-4e49-8581-d4b6e33ca6e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='＃ 月収20万円以上可'])[1]/preceding::div[6]</value>
+      <webElementGuid>fa334a35-92ea-451a-bb76-630e891e6210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div</value>
+      <webElementGuid>b25f14c3-28bf-4051-bb23-fbbb9fd0965b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'お気に入りの求人数　' or . = 'お気に入りの求人数　')]</value>
+      <webElementGuid>34157f3f-6a1d-4aff-b21d-2139b4f15e13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

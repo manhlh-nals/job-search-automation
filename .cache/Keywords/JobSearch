@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "FCBFC4818AADA6EA1A66C8A353C59AC7",
+  "keywordClasses": [
+    {
+      "name": "JobSearch",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

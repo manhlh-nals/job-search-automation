@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>7638bcec-c4a4-49e1-8310-38f291058ad7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[5]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>185f9b3b-dcec-4c8f-ae50-46eab02c0948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Anchor_element__tZBvd Anchor_white_border_gray__yLHOv </value>
+      <webElementGuid>755cab7b-1ea8-41f8-92dd-14c892656c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/search/occupation%E5%96%B6%E6%A5%AD</value>
+      <webElementGuid>3cc87386-d409-4cf3-bb9e-08ae45baf994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value># 営業</value>
+      <webElementGuid>98876bc7-32fe-46f4-aae2-6904802e63ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/section[@class=&quot;Section_element__dj6MS SearchRecruit_occupation__wejCA&quot;]/div[@class=&quot;SearchRecruit_type_list_wrapper__whVBS&quot;]/div[@class=&quot;SearchRecruit_type_list__JemaZ&quot;]/a[@class=&quot;Anchor_element__tZBvd Anchor_white_border_gray__yLHOv&quot;]</value>
+      <webElementGuid>7d315cb4-ffb7-4bac-b082-2b07eaf0aee7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[5]/div/div/a</value>
+      <webElementGuid>4e694faf-b930-49d5-b14a-16bc1cdb235a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'# 営業')]</value>
+      <webElementGuid>d1b63da8-f579-4a0a-ac89-50f15c7ce460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='職種から探す'])[1]/following::a[1]</value>
+      <webElementGuid>f0bf4d30-a3f9-4dcb-aa72-957bef188aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='働き方・雇用形態から探す'])[1]/following::a[11]</value>
+      <webElementGuid>f2e42760-509b-45ef-a7bc-e6873833c357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='# エンジニア・ITエンジニア'])[1]/preceding::a[1]</value>
+      <webElementGuid>bb5e8178-6ab3-4f3b-b8e1-780ca6a20219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='# 販売・飲食・接客・サービス'])[1]/preceding::a[2]</value>
+      <webElementGuid>5c57653b-4284-4aac-a2c9-565e6814cc7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='# 営業']/parent::*</value>
+      <webElementGuid>afcd8341-67d2-4832-ab92-fd91012bded7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/search/occupation%E5%96%B6%E6%A5%AD')]</value>
+      <webElementGuid>85382cf6-43d3-4ed8-9e36-a3b5e4f8c329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[5]/div/div/a</value>
+      <webElementGuid>02cbe39e-9f04-4ba1-9aa0-c1437327d4e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/search/occupation%E5%96%B6%E6%A5%AD' and (text() = '# 営業' or . = '# 営業')]</value>
+      <webElementGuid>5a7b1e39-91b5-413e-a160-3b0f050a6eb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

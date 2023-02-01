@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Browsing history</name>
+   <tag></tag>
+   <elementGuidId>fa03767e-6548-4eca-aa3f-ba5b8c44917e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/ul/li[3]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f9949f5-ca64-4c69-aa4c-e642792795f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Hover_element__jRytx  Hover_mypage-tab__nX_S8</value>
+      <webElementGuid>0557aaba-2bd8-4416-bbce-7c40d55180d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browsing history</value>
+      <webElementGuid>932a82cf-d468-496c-ac3a-019c69bee064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Mypage_content__KpXek&quot;]/div[@class=&quot;Mypage_main__m8bSq&quot;]/ul[@class=&quot;MypageTab_element__rToZg&quot;]/li[@class=&quot;MypageTab_tab_item_wrapper__Rd8mV&quot;]/a[1]/div[@class=&quot;Hover_element__jRytx  Hover_mypage-tab__nX_S8&quot;]</value>
+      <webElementGuid>be502c23-2823-41c0-9885-3888a5264a87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/ul/li[3]/a/div</value>
+      <webElementGuid>535e2306-f72c-4dc5-831e-0ce62a072933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved condition'])[3]/following::div[1]</value>
+      <webElementGuid>9f6b0311-22b1-4b27-8b92-bad094b18c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detailed search'])[1]/following::div[3]</value>
+      <webElementGuid>2a86af4b-4718-44e4-ae38-21537ef16f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='favorite'])[4]/preceding::div[3]</value>
+      <webElementGuid>85bace60-53d4-41a9-8544-6bb3aaf40be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/div</value>
+      <webElementGuid>6594cfce-84cd-4f97-a86e-38691984ddac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Browsing history' or . = 'Browsing history')]</value>
+      <webElementGuid>60aaef9d-bf4a-4904-a38f-facd2b11cfae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

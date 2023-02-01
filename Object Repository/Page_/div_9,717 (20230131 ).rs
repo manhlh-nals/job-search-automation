@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_9,717 (20230131 )</name>
+   <tag></tag>
+   <elementGuidId>335e216d-fcc6-426e-979f-48defdc0422a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchRecruit_search_form_inner__gndQO</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6e2bcff0-257a-4fd3-ba82-642cddf29d8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SearchRecruit_search_form_inner__gndQO</value>
+      <webElementGuid>59aae5dc-23e4-4ce3-b7f7-4073f1589ff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>掲載求人9,717件 (2023/01/31 更新)検索</value>
+      <webElementGuid>19e53a17-ce34-48b1-b4b2-c5ba382a63ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/section[@class=&quot;Section_element__dj6MS SearchRecruit_search_form__gPMLp&quot;]/div[@class=&quot;SearchRecruit_search_form_inner__gndQO&quot;]</value>
+      <webElementGuid>afbd0d91-52f1-49a9-bc5b-041241b35a7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div</value>
+      <webElementGuid>99524513-22c5-48ae-87d0-8f4fb4eaa449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='条件を指定してください'])[2]/following::div[50]</value>
+      <webElementGuid>76589c78-edde-42d1-8801-a9e77b76e61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='解除'])[1]/following::div[51]</value>
+      <webElementGuid>5c7bef59-f6a1-4121-8687-36f8acd58353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div</value>
+      <webElementGuid>4cee7656-603d-4df0-b722-8ecd47bffdad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '掲載求人9,717件 (2023/01/31 更新)検索' or . = '掲載求人9,717件 (2023/01/31 更新)検索')]</value>
+      <webElementGuid>b02a95c6-c567-4eb7-8401-5fea0bbc66ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Browsing history</name>
+   <tag></tag>
+   <elementGuidId>d620c052-28c8-44f2-87ea-ec171ae71dbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='Header_header__R_kkv']/div/div[2]/a[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fbec9688-231d-4f29-80c5-1f62df22e673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Hover_element__jRytx  Hover_mypage-header-icon__pDA3q</value>
+      <webElementGuid>e4a552fc-6d42-40bd-84f0-b866b86c5e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browsing history</value>
+      <webElementGuid>0bcff4de-020d-4f48-bec1-ccfc5110484d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Header_header__R_kkv&quot;)/div[@class=&quot;Header_header__R_kkv Header_is_root__WBV1P&quot;]/div[@class=&quot;Header_header_links__98IMV&quot;]/a[@class=&quot;MypageMenu_icon_wrapper__DFCgn&quot;]/div[@class=&quot;Hover_element__jRytx  Hover_mypage-header-icon__pDA3q&quot;]</value>
+      <webElementGuid>f83dd4db-07b1-4741-b88b-f38d4b038949</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='Header_header__R_kkv']/div/div[2]/a[2]/div</value>
+      <webElementGuid>01242400-5fe5-44dd-99f7-d17f014b4198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved condition'])[1]/following::div[1]</value>
+      <webElementGuid>585c6974-835f-4f24-8716-473615cd215d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='favorite'])[1]/preceding::div[3]</value>
+      <webElementGuid>15cca584-78a2-4de6-bdc1-723cd5a19c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div</value>
+      <webElementGuid>5cfa6937-eefa-4f37-b098-53ae6e1a17f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Browsing history' or . = 'Browsing history')]</value>
+      <webElementGuid>f9db7468-fc9c-4920-8521-48e419858881</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

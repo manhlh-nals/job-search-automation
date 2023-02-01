@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__RecruitCard_post_heart__pLRtB RecruitCard_post_heart_active__z4BqT</name>
+   <tag></tag>
+   <elementGuidId>46a2f4dd-fcda-4fc5-be67-cd2f0bef758a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/div[2]/article/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.RecruitCard_post_heart__pLRtB.RecruitCard_post_heart_active__z4BqT</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>543d162c-919c-4587-bd44-e31042ddadd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>RecruitCard_post_heart__pLRtB RecruitCard_post_heart_active__z4BqT</value>
+      <webElementGuid>8a859ed5-7b45-4ae9-b9b3-d61c1ff339b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>お気に入りを解除する</value>
+      <webElementGuid>adb89b05-4bb6-4e17-8129-dbdec597c30b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Mypage_content__KpXek&quot;]/div[@class=&quot;Mypage_main__m8bSq&quot;]/div[2]/article[@class=&quot;RecruitCard_post_article__tldyX&quot;]/div[@class=&quot;RecruitCard_post_contents__LxU4x&quot;]/div[@class=&quot;RecruitCard_post_title__fN5ov&quot;]/button[@class=&quot;RecruitCard_post_heart__pLRtB RecruitCard_post_heart_active__z4BqT&quot;]</value>
+      <webElementGuid>e696c1e6-3d00-474f-8e13-667058e934ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/div[2]/article/div/div/button</value>
+      <webElementGuid>125c01a7-ad0f-4387-8b24-58d9e260c6b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/button</value>
+      <webElementGuid>9a26d68d-1ed9-4f60-ab25-68f33806675d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

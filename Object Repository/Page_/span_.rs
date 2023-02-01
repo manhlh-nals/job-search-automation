@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>46f17fd5-6189-485b-bd7d-f3a91ad49b43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/h1/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.Search_search_word__82rCx</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b3c0ab1-3e13-4a02-9c68-8daa24c01e14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Search_search_word__82rCx</value>
+      <webElementGuid>136da812-2b1a-464b-9b0b-c579b310c8f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>営業 </value>
+      <webElementGuid>f8835ca1-09fa-4108-9145-eb4ca1d809e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Search_twocolumn__YUMi5&quot;]/div[@class=&quot;Search_column_main__5VwLF undefined&quot;]/h1[@class=&quot;Search_search_text__w2ad3&quot;]/span[@class=&quot;Search_search_word__82rCx&quot;]</value>
+      <webElementGuid>f7212ad7-f44c-4317-a70b-17e3f92a6846</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/h1/span</value>
+      <webElementGuid>c924eab5-837a-4528-a5a6-aed43c8314b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='関連順'])[1]/preceding::span[3]</value>
+      <webElementGuid>5cf50f74-8b72-4c1a-be3a-48e73203b5c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='＃ 大量募集'])[1]/preceding::span[3]</value>
+      <webElementGuid>5b967d7b-43ca-408e-a6e0-c8bbba392b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>6cfb85ac-9084-4b2d-aec7-3ddd687aafa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '営業 ' or . = '営業 ')]</value>
+      <webElementGuid>f4073733-cc39-45d0-aa75-edc74747be94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

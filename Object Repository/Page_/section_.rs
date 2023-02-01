@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_</name>
+   <tag></tag>
+   <elementGuidId>be1f8f21-27b6-409c-b9e8-684b6dbd3c32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.Section_element__dj6MS.SearchRecruit_search_region__l8Hra</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>f6b02fe1-4fb0-49bb-adbc-591adcb7c063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Section_element__dj6MS SearchRecruit_search_region__l8Hra</value>
+      <webElementGuid>a8b6d74b-c72e-4910-a7f5-9b01cba2dbda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>地域から探すのエリアから探す全域から探す駅から探す市区群から探す※ 表示されている件数は実際の該当求人数と異なる可能性があります閉じる北海道エリア北海道東北エリア青森県秋田県岩手県宮城県山形県福島県関東エリア千葉県東京都神奈川県埼玉県茨城県栃木県群馬県中部エリア新潟県長野県岐阜県富山県石川県福井県山梨県静岡県愛知県近畿エリア滋賀県京都府兵庫県奈良県大阪府和歌山県三重県中国エリア鳥取県島根県岡山県広島県山口県四国エリア香川県徳島県愛媛県高知県九州・沖縄エリア福岡県佐賀県長崎県大分県宮崎県熊本県鹿児島県沖縄県北海道エリア北海道東北エリア青森県秋田県岩手県宮城県山形県福島県関東エリア千葉県東京都神奈川県埼玉県茨城県栃木県群馬県中部エリア新潟県長野県岐阜県富山県石川県福井県山梨県静岡県愛知県近畿エリア滋賀県京都府兵庫県奈良県大阪府和歌山県三重県中国エリア鳥取県島根県岡山県広島県山口県四国エリア香川県徳島県愛媛県高知県九州・沖縄エリア福岡県佐賀県長崎県大分県宮崎県熊本県鹿児島県沖縄県</value>
+      <webElementGuid>31214af8-af3f-4901-9913-d60417694ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/section[@class=&quot;Section_element__dj6MS SearchRecruit_search_region__l8Hra&quot;]</value>
+      <webElementGuid>cbb6d3d9-94fa-4680-8b1f-d38537c966e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[3]</value>
+      <webElementGuid>b38039c7-2630-4689-bb6d-6e420209805a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='検索'])[1]/following::section[2]</value>
+      <webElementGuid>115d3ee7-8169-41e3-b46b-7277327edeca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]</value>
+      <webElementGuid>5eee6323-e61b-4c78-83cf-d8e6399116bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = '地域から探すのエリアから探す全域から探す駅から探す市区群から探す※ 表示されている件数は実際の該当求人数と異なる可能性があります閉じる北海道エリア北海道東北エリア青森県秋田県岩手県宮城県山形県福島県関東エリア千葉県東京都神奈川県埼玉県茨城県栃木県群馬県中部エリア新潟県長野県岐阜県富山県石川県福井県山梨県静岡県愛知県近畿エリア滋賀県京都府兵庫県奈良県大阪府和歌山県三重県中国エリア鳥取県島根県岡山県広島県山口県四国エリア香川県徳島県愛媛県高知県九州・沖縄エリア福岡県佐賀県長崎県大分県宮崎県熊本県鹿児島県沖縄県北海道エリア北海道東北エリア青森県秋田県岩手県宮城県山形県福島県関東エリア千葉県東京都神奈川県埼玉県茨城県栃木県群馬県中部エリア新潟県長野県岐阜県富山県石川県福井県山梨県静岡県愛知県近畿エリア滋賀県京都府兵庫県奈良県大阪府和歌山県三重県中国エリア鳥取県島根県岡山県広島県山口県四国エリア香川県徳島県愛媛県高知県九州・沖縄エリア福岡県佐賀県長崎県大分県宮崎県熊本県鹿児島県沖縄県' or . = '地域から探すのエリアから探す全域から探す駅から探す市区群から探す※ 表示されている件数は実際の該当求人数と異なる可能性があります閉じる北海道エリア北海道東北エリア青森県秋田県岩手県宮城県山形県福島県関東エリア千葉県東京都神奈川県埼玉県茨城県栃木県群馬県中部エリア新潟県長野県岐阜県富山県石川県福井県山梨県静岡県愛知県近畿エリア滋賀県京都府兵庫県奈良県大阪府和歌山県三重県中国エリア鳥取県島根県岡山県広島県山口県四国エリア香川県徳島県愛媛県高知県九州・沖縄エリア福岡県佐賀県長崎県大分県宮崎県熊本県鹿児島県沖縄県北海道エリア北海道東北エリア青森県秋田県岩手県宮城県山形県福島県関東エリア千葉県東京都神奈川県埼玉県茨城県栃木県群馬県中部エリア新潟県長野県岐阜県富山県石川県福井県山梨県静岡県愛知県近畿エリア滋賀県京都府兵庫県奈良県大阪府和歌山県三重県中国エリア鳥取県島根県岡山県広島県山口県四国エリア香川県徳島県愛媛県高知県九州・沖縄エリア福岡県佐賀県長崎県大分県宮崎県熊本県鹿児島県沖縄県')]</value>
+      <webElementGuid>0ee9f0d3-1289-41e2-adf9-4cc6986d865f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_favorite</name>
+   <tag></tag>
+   <elementGuidId>22044e09-c53e-4bf3-84b4-f533f2577b96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/div/ul/li[4]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>245799d2-e117-4d50-9116-6811c5e1dc7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Hover_element__jRytx  Hover_mypage-tab__nX_S8</value>
+      <webElementGuid>17567246-a121-41b9-945f-335b7a369f37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>お気に入り</value>
+      <webElementGuid>d2aa5b7d-bbc4-463d-9815-71d8b9996bf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[1]/section[@class=&quot;Section_element__dj6MS Mypage_content__KpXek&quot;]/div[@class=&quot;Mypage_main__m8bSq&quot;]/ul[@class=&quot;MypageTab_element__rToZg&quot;]/li[@class=&quot;MypageTab_tab_item_wrapper__Rd8mV&quot;]/a[1]/div[@class=&quot;Hover_element__jRytx  Hover_mypage-tab__nX_S8&quot;]</value>
+      <webElementGuid>e5c92ab1-bd6d-4cd0-947c-ec23f3a25bef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/div/ul/li[4]/a/div</value>
+      <webElementGuid>5b540b4f-71a5-470a-95dc-a6ad4211bac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='閲覧履歴'])[3]/following::div[8]</value>
+      <webElementGuid>551cba4e-1d0f-446b-bca5-586cc7b2121a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ホーム'])[1]/following::div[8]</value>
+      <webElementGuid>c23bca7a-d733-4a6d-9ffd-18d18fb3a4c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div</value>
+      <webElementGuid>7df14fb0-648f-4456-bc9f-5f2f4f4eb7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'お気に入り' or . = 'お気に入り')]</value>
+      <webElementGuid>8cc128d3-ba77-4d20-b776-f60c70693aec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
